@@ -19,13 +19,13 @@ This repository contains my completed homework assignments for the digital image
 The `Notebooks` folder contains Jupyter Notebooks for each homework assignment. The code, comments, and explanations are written in a mix of English and Serbian. While the course was conducted in Serbian, the Markdown cells in the notebooks are primarily written in Serbian to facilitate understanding.
 
 ### Assignment 1
-- [assignment1.ipynb](Notebooks/assignment1.ipynb)
+- [domaci1_20_019.ipynb](notebooks/domaci1_20_019.ipynb)
 
 ### Assignment 2
-- [assignment2.ipynb](Notebooks/assignment2.ipynb)
+- [domaci2_20_019.ipynb](notebooks/domaci2_20_019.ipynb)
 
 ### Assignment 3
-- [assignment3.ipynb](Notebooks/assignment3.ipynb)
+- [domaci3_20_019.ipynb](notebooks/domaci3_20_019.ipynb)
 
 ## PDFs
 

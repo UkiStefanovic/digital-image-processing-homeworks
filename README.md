@@ -5,14 +5,13 @@ This repository contains my completed homework assignments for the digital image
 ## Table of Contents
 
 - [Notebooks](#notebooks)
-  - [Assignment 1](#assignment-1)
-  - [Assignment 2](#assignment-2)
-  - [Assignment 3](#assignment-3)
+  - [domaci1_20_019.ipynb](notebooks/domaci1_20_019.ipynb)
+  - [domaci2_20_019.ipynb](notebooks/domaci2_20_019.ipynb)
+  - [domaci3_20_019.ipynb](notebooks/domaci3_20_019.ipynb)
 - [PDFs](#pdfs)
-  - [Assignment 1](#assignment-1)
-  - [Assignment 2](#assignment-2)
-  - [Assignment 3](#assignment-3)
-- [Language](#language)
+  - [domaci1_20_019.pdf](pdfs/domaci1_20_019.pdf)
+  - [domaci2_20_019.pdf](pdfs/domaci2_20_019.pdf)
+  - [domaci3_20_019.pdf](pdfs/domaci3_20_019.pdf)
 
 ## Notebooks
 
